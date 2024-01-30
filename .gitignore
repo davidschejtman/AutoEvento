@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches de diretórios
+.cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Arquivos de ambiente virtual
+venv/
+env/
+ENV/
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+
+# Arquivos de configuração do sistema
+*.swp
+*~
+
+# Arquivos de credenciais
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches de diretórios
+.cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Arquivos de ambiente virtual
+venv/
+env/
+ENV/
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+
+# Arquivos de configuração do sistema
+*.swp
+*~
+
+# Arquivos de credenciais
+client_secret_618809266946-7a53d9qis7q8ctnc7ualmehss2n82787.apps.googleusercontent.com.json
+eventos.txt
+
+# Arquivos de log
+*.log
+
+# Arquivos gerados pelo Python
+*.pyc
+.json
+token.json
+
+# Arquivos de log
+*.log
+
+# Arquivos gerados pelo Python
+*.pyc
